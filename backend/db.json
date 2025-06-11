@@ -4,42 +4,49 @@
       "id": 1,
       "conteudo": "Que bom que você veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Que bom que você veio",
       "autoria": "Nay",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Que bom que você veio",
       "autoria": "Nay",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "teste 10",
       "autoria": "nick1",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "frase",
       "autoria": "nicole",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Aprendendo Angular",
       "autoria": "nic",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Aprendendo Angular",
       "autoria": "nick1",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     }
   ]
